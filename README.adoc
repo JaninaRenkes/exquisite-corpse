@@ -1,6 +1,6 @@
-# exquisite-corpse
+= exquisite-corpse
 
-#Little Fox
+= Little Fox
 
 - *_The little Fox was alone in the forest._*
 - He was searching somthing to eat, when he hears someone approach.
