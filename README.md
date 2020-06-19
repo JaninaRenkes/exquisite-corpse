@@ -1,2 +1,7 @@
 # exquisite-corpse
-teamwork with git 
+
+#Little Fox
+
+*_The little Fox was alone in the forest._*
+He was searching somthing to eat, when he hears someone approach.
+When he sees the branches of the woods movien away he saw a *terrible ...*
